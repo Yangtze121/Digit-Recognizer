@@ -22,7 +22,7 @@ Training and prediction take a very short time and the accuracy is 83.328%.
 It's a typical lazy learning algorithm and it does not need to deal with the training set.The training time is very short but it takes too long in prediction.
 The near neighbor number is set to 5, and the final accuracy is 93.700%.
 
-<h3>4、SVM(Surport Machine Vector)</h3>
+<h3>4、SVM(Surport Vector Machine)</h3>
 SVM model can significantly improve training speed after data standardization. Kernel function uses linear kernel. 
 For multi classification problems, the one vs rest principle is used and the voting method is used to predict the results.
 The final training time 198s, the accuracy is 91.228%
